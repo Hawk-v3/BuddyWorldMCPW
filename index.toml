@@ -638,7 +638,7 @@ hash = "6ec5bdab5c65ad66d39698efc43c47ea67d6441a634c14277ef0a303714cbab3"
 
 [[files]]
 file = "mods/advcloth-kejfix.pw.toml"
-hash = "1ea29e666d828e4bbfd99ad7d460dd55d2d5e98252e5c9dfdb7a3ed19bd28b43"
+hash = "edab3f9e185ab66581f210d684ebc67af4b788340255772e405e35eab6d63d76"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "83aeab8e27b2c84019a33fb1adeb96537535c6586d56a0814955499f10648851"
+hash = "2f94f48438ecf7941e2bf7693bfe959ba3bb2e11b65ee0f3434772451fd7ae35"
 metafile = true
 
 [[files]]

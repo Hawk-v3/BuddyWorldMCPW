@@ -3,7 +3,7 @@ filename = "advcloth-1.18.2-0.0.3.0-beta1kej.jar"
 side = "both"
 
 [download]
-url = "https://www.dropbox.com/s/aul7046jdwil7nj/advcloth-1.18.2-0.0.3.0-beta1kej.jar?dl=1"
+url = "https://packwizhawkhosting.pages.dev/advcloth-1.18.2-0.0.3.0-beta1kej.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
