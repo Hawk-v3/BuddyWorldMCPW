@@ -1,0 +1,11 @@
+name = "Adventure Cloth - KejPatch"
+filename = "advcloth-1.18.2-0.0.3.0-beta1kej.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/s/aul7046jdwil7nj/advcloth-1.18.2-0.0.3.0-beta1kej.jar?dl=1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "47d116dea9005c4d4bd45abb5d1bf760eb6f34d35d9ab25b33cd1244543fbcb4"

@@ -1,0 +1,13 @@
+name = "Armor Set Bonuses (Forge)"
+filename = "ArmorSetBonuses_1.18_V7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd8a79ee1c987d47daa21f31dac60e9269851842"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3865391
+project-id = 549892

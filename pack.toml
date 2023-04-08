@@ -1,0 +1,13 @@
+name = "Buddy Worldcraft"
+author = "Hawk"
+version = "0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0693ffc84c8045ad0289275d9840f82eaa5e993ef554ac5e0ec9f47192e4901c"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"
