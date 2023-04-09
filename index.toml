@@ -518,7 +518,7 @@ hash = "fd6c6a6aa2310b20ab98836db5339e01ba1076ebd643734980428ab72164146b"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "fbdae2fe1eb1d3930e3af2f02510f2186f8c0116162bc83b21c7c0b8d26e8ad6"
+hash = "3869ecd65272af0540aa9b96f2b3edc4bedf6c4a781ae284edd1441326a349f6"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -542,7 +542,7 @@ hash = "30b9a2a2759443f8ccb10936ce9e02c414b0816c70b96f4586480e02e6a28007"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "086ff7e027b0eec85332468bcf8df5397ebc8f5403cbaf65cd1feebb436cc95e"
+hash = "f79c76cab78edbc5b8b29d96f975f5b5137d96da9a82c247021f8311a24ea2ca"
 
 [[files]]
 file = "config/pamhc2crops.toml"
@@ -734,6 +734,11 @@ hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "bf0298f05d45cb823e0eaddf2d268cde7422cf893ae2d2119dc55c9217d2112a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
@@ -761,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fc97acae22289f2966f8745901b9400f10ff69fe5481d26ea8181235a3f93d83"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
