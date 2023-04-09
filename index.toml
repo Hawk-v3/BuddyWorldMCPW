@@ -542,7 +542,7 @@ hash = "30b9a2a2759443f8ccb10936ce9e02c414b0816c70b96f4586480e02e6a28007"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a0e9c02d73dea59e8f0b416862ede2d45eb64127af48554c9540c09dacbd9521"
+hash = "086ff7e027b0eec85332468bcf8df5397ebc8f5403cbaf65cd1feebb436cc95e"
 
 [[files]]
 file = "config/pamhc2crops.toml"
@@ -605,6 +605,10 @@ file = "config/simplyswords/weapon_attributes.json5"
 hash = "1e5395dea554151f6dede2fa2510c56e0824433576bc1091c1424a4a990ff184"
 
 [[files]]
+file = "config/smallships-common.toml"
+hash = "9dfbd9001d26bd3ec938ea4c7317b3cd5c9f6f299d1179e69b0717a574e970c8"
+
+[[files]]
 file = "config/solsweetpotato-client.toml"
 hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
 
@@ -627,6 +631,14 @@ hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 [[files]]
 file = "config/travelerstitles-forge-1_18.toml"
 hash = "4f5f7225d9a4a35d8ced5a280be465bafc3d4f7adf64a7bdd41f0392b197e2a4"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "f272f078192c22c653aecf56cca9d7871e67f64e133a249dec9fc3c875ec8842"
 
 [[files]]
 file = "config/walljump-common.toml"
