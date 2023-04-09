@@ -732,6 +732,11 @@ hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "9607dda63f744e0ef1faa09331bccd0ca77b3473d9d68dbfe7b11661d54da842"
 metafile = true
@@ -852,6 +857,11 @@ hash = "42aff0502a35273e17459fc9139aa31f621241999901c7f1b750eb2920360d2a"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "4b30d21879a0353e965ca3a7ae0e3ad2582e7948b6b789a8f7307761f6c804d6"
+metafile = true
+
+[[files]]
 file = "mods/wall-jump.pw.toml"
 hash = "01d471e5eb1c90da17cba7888193fe82c62c086d3ef9e38d05ca4895f492ae8e"
 metafile = true
@@ -859,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6bcb34bef6d487faa3394d912259d737c78422a1b707911576c70e92db8811ab"
+metafile = true
+
+[[files]]
+file = "mods/wild-west-guns-3d.pw.toml"
+hash = "e050b60f3f7a13964ea3e35a54c652cb8ea355052591951a65be778b492fc031"
 metafile = true
 
 [[files]]
