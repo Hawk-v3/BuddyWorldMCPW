@@ -542,7 +542,7 @@ hash = "30b9a2a2759443f8ccb10936ce9e02c414b0816c70b96f4586480e02e6a28007"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f79c76cab78edbc5b8b29d96f975f5b5137d96da9a82c247021f8311a24ea2ca"
+hash = "16742346919379972319c064fb30f01e0a78ba6848184694821cdb2d11310aaf"
 
 [[files]]
 file = "config/pamhc2crops.toml"
@@ -851,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5d6a99735f076cf8cd6cc80164f4460aa7bcc720363a57d9772cd150defbf4f7"
 metafile = true
 
 [[files]]
