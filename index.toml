@@ -899,11 +899,6 @@ hash = "6bcb34bef6d487faa3394d912259d737c78422a1b707911576c70e92db8811ab"
 metafile = true
 
 [[files]]
-file = "mods/wild-west-guns.pw.toml"
-hash = "b3b71edd6cd0505190545065a86626fc87370d0fdefadcb55e343adb9dc87285"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "52b3c9b4326bb2572e175ebf6d820ca400bf0c4679d7d2c23fbd5cc3c4e02781"
 metafile = true
@@ -932,3 +927,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
 metafile = true
+
+[[files]]
+file = "scripts/CraftTweaker/BuddyCraft.zs"
+hash = "5b319b7a3ea95992103f89e614cae3c50b9a0b6affcc04357c5b28f74cceebe9"
