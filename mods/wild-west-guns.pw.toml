@@ -1,0 +1,13 @@
+name = "Wild West Guns"
+filename = "WildWestGuns2_1.18.2_2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "025a4ba11ed48769b5832cd7a26c3caaf7e0632f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3786497
+project-id = 354361

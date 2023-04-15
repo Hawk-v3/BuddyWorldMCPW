@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "4cb9d3b61c8ca7f5acd6f1d25e1ce55c353c9eec707f8931b24ec5ca1ab1745a"
+hash = "9ad89c5689471264d26580e7f039ff80004c5d9ab14abbbc6680574ef71d7f4e"
 metafile = true
 
 [[files]]
@@ -899,8 +899,8 @@ hash = "6bcb34bef6d487faa3394d912259d737c78422a1b707911576c70e92db8811ab"
 metafile = true
 
 [[files]]
-file = "mods/wild-west-guns-3d.pw.toml"
-hash = "e050b60f3f7a13964ea3e35a54c652cb8ea355052591951a65be778b492fc031"
+file = "mods/wild-west-guns.pw.toml"
+hash = "b3b71edd6cd0505190545065a86626fc87370d0fdefadcb55e343adb9dc87285"
 metafile = true
 
 [[files]]
