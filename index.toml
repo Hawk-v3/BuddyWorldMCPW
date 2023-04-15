@@ -749,6 +749,11 @@ hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
 metafile = true
 
 [[files]]
+file = "mods/ewewukeks-musket-mod.pw.toml"
+hash = "fe9d9ccb5dfe9642906ecb79a72dbacac5fa3b64fc8a74c9afcbf1431841e74f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
