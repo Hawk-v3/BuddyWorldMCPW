@@ -1,0 +1,13 @@
+name = "Simple Musket"
+filename = "simplemusket-forge-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26036eb0b52c130cc855197835eb8ac108bd30fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4439530
+project-id = 704141

@@ -904,6 +904,11 @@ hash = "dc1ace4b702d5953b4ff5aac59572a9fc03d077aee3c0d407db17a8f768f5268"
 metafile = true
 
 [[files]]
+file = "mods/simple-musket.pw.toml"
+hash = "c71c7dcf1e60015eeffe7fe65a3432dea0f8eb7bd36162d327f98e66a5dc3e9b"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "20c4e8c62e4777d9547af8958625febc47bc8361aa3dcf294d671b4ed3774e4c"
 metafile = true
