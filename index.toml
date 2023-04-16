@@ -518,7 +518,7 @@ hash = "fd6c6a6aa2310b20ab98836db5339e01ba1076ebd643734980428ab72164146b"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3869ecd65272af0540aa9b96f2b3edc4bedf6c4a781ae284edd1441326a349f6"
+hash = "826d64a2b204dd8388bfb4b6b09e0295948ca273680790e635ca8b342fa491c4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -530,11 +530,15 @@ hash = "82d25ad2e57e63c06c7f8e14814991accd1fb3a8e2bf70d1a98b3b47471e93e6"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "2cb8e96457be398d4360989a584b12ca8c29fb46a85ebdf48f81f6b85a70cd60"
+hash = "b0ea3bd14496208e9ee2b383003eb8d40fc8dd3a7667dd5ec8d37e591d2cdbb1"
 
 [[files]]
 file = "config/kobolds.json"
 hash = "2a7980444ba1b2963548a0fdfff3f05e9391f3a92545b0167669c075686da6c2"
+
+[[files]]
+file = "config/musketmod.txt"
+hash = "b69f2c899879207b8545ca2975c6a01a8b6f4476bf627cf1d98c3cf5a74154f5"
 
 [[files]]
 file = "config/nomadictents-common.toml"
@@ -542,7 +546,15 @@ hash = "30b9a2a2759443f8ccb10936ce9e02c414b0816c70b96f4586480e02e6a28007"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "16742346919379972319c064fb30f01e0a78ba6848184694821cdb2d11310aaf"
+hash = "fef9a9a1a5c824f1e43335d219a81a79f0fabd38f04a6b4f880ae9e6bb3f960e"
+
+[[files]]
+file = "config/oldguns-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/oldguns-common.toml"
+hash = "f2da12b6e8a41bad7f41a101984c3cd1c0456a08dd6d7331834f1e89bb909b60"
 
 [[files]]
 file = "config/pamhc2crops.toml"
@@ -625,6 +637,10 @@ file = "config/sophisticatedcore-common.toml"
 hash = "748cf18936649c89fa95a89f79db1776e031a61fdd67d590514b0912ee9f4d3f"
 
 [[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 
@@ -647,6 +663,50 @@ hash = "6c1f37582cacb806aa64c1840558eacec61a0d7cc328e4906f2d6b8dc683e90c"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "6ec5bdab5c65ad66d39698efc43c47ea67d6441a634c14277ef0a303714cbab3"
+
+[[files]]
+file = "defaultconfigs/comforts-server.toml"
+hash = "2bdb053f40cb1c75b45b551c0abb21ca52bc69003ff82b6e62dbf302c9eb4a39"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "f41633ff6943f713ad78779e4bc33c91b9e89869b3c0f5fe9c139bd31717f619"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
+
+[[files]]
+file = "defaultconfigs/oldguns-server.toml"
+hash = "90ad4b132037aaaff79180665389a8ba97d6f52dbb7f819cc29177ef574103e3"
+
+[[files]]
+file = "defaultconfigs/pamhc2crops.toml"
+hash = "112e8d56c22c31477ce9172cb863ffc58663760e7eb66d4c36ddd6069156d653"
+
+[[files]]
+file = "defaultconfigs/pamhc2foodcore-server.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "defaultconfigs/pamhc2foodextended-server.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "defaultconfigs/pamhc2trees.toml"
+hash = "b3a3d8f830fb1f459360ccc7e5385377b909375ccf6af7bc177c10208e9c845b"
+
+[[files]]
+file = "defaultconfigs/salwayseat-server.toml"
+hash = "96a037bd0acb076fe25a8dfae7f3d2e2fa23177fe43a06d3420d61ebf71aa382"
+
+[[files]]
+file = "defaultconfigs/solsweetpotato-server.toml"
+hash = "5877b2c0a7986d8779a5961fefd062646f81c9d522681ba53f70f5142e7eb87b"
 
 [[files]]
 file = "mods/advcloth-kejfix.pw.toml"
@@ -791,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "9ad89c5689471264d26580e7f039ff80004c5d9ab14abbbc6680574ef71d7f4e"
+metafile = true
+
+[[files]]
+file = "mods/old-guns-mod.pw.toml"
+hash = "70bb00988ed5ea519c9a6cd2ea96d5168b4a088e8b1de18155bec4822ccf7bd9"
 metafile = true
 
 [[files]]
