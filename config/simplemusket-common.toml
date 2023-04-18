@@ -1,0 +1,20 @@
+#The number of ticks needed to reload a musket. 20 ticks = 1 second.
+#Range: 25 ~ 100
+"Musket reload time" = 35
+#The number of ticks needed to aim a musket. 20 ticks = 1 second.
+#Range: 25 ~ 100
+"Musket aim time" = 25
+#If enabled, copper bullets are craftable.
+"Copper bullets" = true
+#If enabled, gold bullets are craftable.
+"Gold bullets" = true
+#If enabled, netherite bullets are craftable.
+"Craftable netherite bullets" = false
+#If enabled, netherite bullets can be found in chest loot.
+"Netherite bullets" = true
+#The maximum number of netherite bullets that can be found in chest loot. The minimum will be half, rounded up.
+#Range: 1 ~ 16
+"Maximum Netherite bullet loot" = 8
+#If enabled while consecration is installed, change golden bullet behavior to remove undead protection
+"Gold bullet damage bonus" = true
+

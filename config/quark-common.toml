@@ -519,8 +519,8 @@
 		"Custom Emote Debug" = false
 
 	[tweaks.compasses_work_everywhere]
-		"Enable Compass Nerf" = true
-		"Enable Clock Nerf" = true
+		"Enable Compass Nerf" = false
+		"Enable Clock Nerf" = false
 		"Enable Nether" = true
 		"Enable End" = true
 
