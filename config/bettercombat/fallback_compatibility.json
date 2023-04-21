@@ -35,7 +35,7 @@
       "weapon_attributes": "bettercombat:anchor"
     },
     {
-      "item_id_regex": "battlestaff|battle_staff",
+      "item_id_regex": "battlestaff|battle_staff|staff",
       "weapon_attributes": "bettercombat:battlestaff"
     },
     {
@@ -71,7 +71,7 @@
       "weapon_attributes": "bettercombat:dagger"
     },
     {
-      "item_id_regex": "staff|wand|sceptre",
+      "item_id_regex": "wand|sceptre",
       "weapon_attributes": "bettercombat:wand"
     },
     {

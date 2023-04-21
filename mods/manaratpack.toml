@@ -1,0 +1,11 @@
+name = "Mana's Rat Pack"
+filename = "ManaRatPack-1.0.jar"
+side = "both"
+
+[download]
+url = "https://packwizhawkhosting.pages.dev/ManaRatPack-1.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e4fec1b1c39014ed2b605df45b84371bd47660a9e93c673ba840e68e23a9364a"

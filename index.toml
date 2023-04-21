@@ -342,7 +342,7 @@ hash = "89390b1814f5f9396d29cc5c17942100b9bfddfb286e18af3ef3e66da50971f4"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
-hash = "8c81b10722bf0c981baa9d695cb56556d98bbe768d820f6ea452d5a8958c5ec5"
+hash = "009ff22b40d5b95d9e2caf7294fa8557218690aa9b73c67120e89cb708828f6a"
 
 [[files]]
 file = "config/bettercombat/server.json5"
@@ -825,6 +825,10 @@ metafile = true
 file = "mods/kobolds.pw.toml"
 hash = "c3bc34c70d24469c6665f868fd8f8c3a149f0c6fdcc7817ee44a0b14871f5f1e"
 metafile = true
+
+[[files]]
+file = "mods/manaratpack.toml"
+hash = "53d5f8580730f110b4c5cc65154da471766426b60c5fee0a2568e74a9f7eb61b"
 
 [[files]]
 file = "mods/nomadic-tents.pw.toml"
