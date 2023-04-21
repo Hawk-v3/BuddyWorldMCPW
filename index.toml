@@ -827,8 +827,9 @@ hash = "c3bc34c70d24469c6665f868fd8f8c3a149f0c6fdcc7817ee44a0b14871f5f1e"
 metafile = true
 
 [[files]]
-file = "mods/manaratpack.toml"
+file = "mods/manaratpack.pw.toml"
 hash = "53d5f8580730f110b4c5cc65154da471766426b60c5fee0a2568e74a9f7eb61b"
+metafile = true
 
 [[files]]
 file = "mods/nomadic-tents.pw.toml"
