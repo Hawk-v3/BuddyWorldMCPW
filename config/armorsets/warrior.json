@@ -1,0 +1,26 @@
+{
+  "armorSetName": "warrior",
+  "head": {
+    "itemKey": "immersive_armors:warrior_helmet"
+  },
+  "chest": {
+    "itemKey": "immersive_armors:warrior_chestplate"
+  },
+  "legs": {
+    "itemKey": "immersive_armors:warrior_leggings"
+  },
+  "boots": {
+    "itemKey": "immersive_armors:warrior_boots"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.attack_speed",
+      "value": 1.0,
+      "attributeOperation": 0,
+      "modifierUUID": "d5a7dc88-9405-4398-b1e5-250b4c6dd218",
+      "description": "attack speed increased"
+    }
+  ],
+  "hideGeneratedTooltip": false
+}

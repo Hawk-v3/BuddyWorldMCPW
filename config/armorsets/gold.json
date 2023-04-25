@@ -20,6 +20,14 @@
       "interactionType": "self",
       "interactionDuration": 300,
       "hideBonusDescription": false
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:glowing",
+      "value": 0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false
     }
   ],
   "hideGeneratedTooltip": false

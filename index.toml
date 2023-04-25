@@ -318,7 +318,11 @@ hash = "d5c639ef30fbc6f2957c26b1b7f5040e8b9cb9ff7de41532e8c671cacb31622d"
 
 [[files]]
 file = "config/armorsets/gold.json"
-hash = "9672eb818f32e149b269bc6b30d0d0d775b58acd5e866fd983ab3b561d975160"
+hash = "48c7e6e1ba543c62ffd17faea3a8c5019af8eaf667f9253986d4f5331133e497"
+
+[[files]]
+file = "config/armorsets/heavy.json"
+hash = "6f12266b71c2f0dd7b1081af7cda65c2859fa47eddbbc93ba038713eaa499f77"
 
 [[files]]
 file = "config/armorsets/iron.json"
@@ -331,6 +335,18 @@ hash = "2c092477992ce7d3aeb40123d088502d975a06cd0facf6a9fe2db4b005c85f4b"
 [[files]]
 file = "config/armorsets/netherite.json"
 hash = "7d246258de1d4a78e4fc9c72f77b40e972c02161346c3813955682b4894a0c61"
+
+[[files]]
+file = "config/armorsets/prismarine.json"
+hash = "7b04fb6d578b3eff857c60a3602d2dd62955c2f33ddc287da9f2f21a82df64fb"
+
+[[files]]
+file = "config/armorsets/slime.json"
+hash = "6c25ada3dc9839e70e89b4ed86b4175abefdb2f6cf97df3a188a024bac9fa5dc"
+
+[[files]]
+file = "config/armorsets/warrior.json"
+hash = "866b7ec77e3682d3bee1645c1d7936b65e083a0ca4959433189a6d40820bf356"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -450,7 +466,7 @@ hash = "e5700eb150474cc6551e27720eee8b689d95428d5dff38454a480a3e4b9503de"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "02f6ad09c3b22a3cc4516a3fe2d78cf4c65cec09df3b0f80e2fa723a793db7e3"
+hash = "3e7d425a13857009d422e70e54c1b31996c0ff2aefb9f38399b056ec4d1861ea"
 
 [[files]]
 file = "config/coldsweat/main.toml"
@@ -574,7 +590,7 @@ hash = "37f6a9b53c5ed0114c8539256f0222be96abff36a8f4b162d259073f4bc1879d"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "b626c6e364ba79e8819203b5a8e586a468c4f30d66afc072232df42ff677be02"
+hash = "8ad572b3d7a3c2bf4add8e1dabc9112dbe09fab4f4caf0434d2c268f1c879a16"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
@@ -797,6 +813,11 @@ hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "d6ed3af411d0163fcdd3a769cdedad79b7f011f865e68e86fa5e1bfa25ff7713"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
@@ -869,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "279074fecb7ed930b3bbfd0f1c4c8ed0fd95e8e268935303ff123ba982caada8"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
 
 [[files]]
